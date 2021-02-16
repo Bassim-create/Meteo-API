@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(52, 124, 219);
+}
+
+.text{
+    margin: 10%;
+    text-align: center;
+}
+ul{
+    background-color: aqua;
+    text-align: center;
+    list-style-type: none;
+    border-radius: 50px;
+}
+#keyword{
+    text-align: center;
+    height:5ch;
+    width: 70ch;
+    border-radius: 50px;
+}
